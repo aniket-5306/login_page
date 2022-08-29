@@ -1,0 +1,38 @@
+body{
+    background: url('login_background.jpg');
+    background-size: cover;
+    font-family: Lucida handwriting;
+}
+
+div{
+    background-color: rgb(124, 251, 230);
+    width: 400px;
+    height: 300px;
+    border-radius: 7px;
+    margin: 140px auto;
+}
+
+h2{
+    font-size: 27px;
+    text-align: center;
+}
+
+form{
+    padding: 10px;
+    text-align: center;
+}
+
+input{
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.bttn{
+    border: none;
+    background-color: blue;
+    border-radius: 3px;
+    color: white;
+    margin: 0px 3px;
+    padding: 5px 7px;
+    cursor: pointer;
+}
